@@ -1,4 +1,4 @@
-package com.stepasha.makeup
+package com.stepasha.makeupagain
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.stepasha.makeup", appContext.packageName)
+        assertEquals("com.stepasha.makeupagain", appContext.packageName)
     }
 }

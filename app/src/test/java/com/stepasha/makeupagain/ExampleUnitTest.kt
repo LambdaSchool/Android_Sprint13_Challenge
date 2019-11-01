@@ -1,4 +1,4 @@
-package com.stepasha.makeup
+package com.stepasha.makeupagain
 
 import org.junit.Test
 
